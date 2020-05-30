@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+  <Player>
+    <name>Pudge</name>
+    <type>0</type>
+    <baseStr>25</baseStr>
+    <baseAgi>14</baseAgi>
+    <baseInt>14</baseInt>
+    <moveSpeed>280</moveSpeed>
+    <baseArmor>1</baseArmor>
+    <minDmg>52</minDmg>
+    <regeneration>1,5</regeneration>
+    <Health>132,75</Health>
+  </Player>
+  <Bot>
+    <name>Lifestealer</name>
+    <type>0</type>
+    <baseStr>25</baseStr>
+    <baseAgi>18</baseAgi>
+    <baseInt>15</baseInt>
+    <moveSpeed>315</moveSpeed>
+    <baseArmor>1,57</baseArmor>
+    <minDmg>52</minDmg>
+    <regeneration>1,5</regeneration>
+    <Health>2,75</Health>
+  </Bot>
+  <Atributes>
+    <TimeButtleSecond>2</TimeButtleSecond>
+    <TimeButtleMinute>2</TimeButtleMinute>
+    <Gold>9999</Gold>
+  </Atributes>
+</Heroes>

@@ -1,0 +1,6 @@
+C:\MyFiles\Dota_2\Game-Dota2\MyExeptions\bin\Debug\MyExeptions.dll
+C:\MyFiles\Dota_2\Game-Dota2\MyExeptions\bin\Debug\MyExeptions.pdb
+C:\MyFiles\Dota_2\Game-Dota2\MyExeptions\obj\Debug\MyExeptions.dll
+C:\MyFiles\Dota_2\Game-Dota2\MyExeptions\obj\Debug\MyExeptions.pdb
+C:\MyFiles\Dota_2\Game-Dota2\MyExeptions\obj\Debug\MyExceptions.csprojAssemblyReference.cache
+C:\MyFiles\Dota_2\Game-Dota2\MyExeptions\obj\Debug\MyExceptions.csproj.CoreCompileInputs.cache

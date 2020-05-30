@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyFiles\\Kursach Full Pack\\Programm\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "C:\\MyFiles\\Kursach Full Pack\\Programm\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyFiles\\Kursach Full Pack\\Programm\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\MyFiles\\Kursach Full Pack\\Programm\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\galan\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFiles\\Kursach Full Pack\\Programm\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\galan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader-OptionalStreams": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Square.Retrofit2": {
+              "target": "Package",
+              "version": "[2.4.0.1, )"
+            },
+            "System.Collections.NonGeneric": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Xamarin.Android.Support.Annotations": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.UI": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Fragment": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Vector.Drawable": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.VersionedParcelable": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.GooglePlayServices.Maps": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
+            },
+            "runtime.native.System": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.6.292, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

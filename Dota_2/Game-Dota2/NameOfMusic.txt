@@ -1,0 +1,16 @@
+MainMenu.mp3
+Main.mp3
+SelectHeroes.mp3
+papich0.mp3
+papich1.mp3
+papich2.mp3
+papich3.mp3
+papich4.mp3
+papich5.mp3
+papich6.mp3
+papich7.mp3
+lil_fon.mp3
+BattleBegin.mp3
+BattleMusic.mp3
+EndBattle.mp3
+EnemyKillYou.mp3
