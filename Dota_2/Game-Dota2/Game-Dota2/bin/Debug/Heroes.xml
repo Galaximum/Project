@@ -10,23 +10,23 @@
     <baseArmor>1</baseArmor>
     <minDmg>52</minDmg>
     <regeneration>1,5</regeneration>
-    <Health>132,75</Health>
+    <Health>558,5</Health>
   </Player>
   <Bot>
-    <name>Lifestealer</name>
-    <type>0</type>
-    <baseStr>25</baseStr>
-    <baseAgi>18</baseAgi>
-    <baseInt>15</baseInt>
-    <moveSpeed>315</moveSpeed>
-    <baseArmor>1,57</baseArmor>
-    <minDmg>52</minDmg>
+    <name>Gyrocopter</name>
+    <type>1</type>
+    <baseStr>18</baseStr>
+    <baseAgi>24</baseAgi>
+    <baseInt>19</baseInt>
+    <moveSpeed>320</moveSpeed>
+    <baseArmor>4,43</baseArmor>
+    <minDmg>37</minDmg>
     <regeneration>1,5</regeneration>
-    <Health>2,75</Health>
+    <Health>40,8999999999999</Health>
   </Bot>
   <Atributes>
-    <TimeButtleSecond>2</TimeButtleSecond>
-    <TimeButtleMinute>2</TimeButtleMinute>
+    <TimeButtleSecond>59</TimeButtleSecond>
+    <TimeButtleMinute>1</TimeButtleMinute>
     <Gold>9999</Gold>
   </Atributes>
 </Heroes>
